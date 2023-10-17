@@ -10,14 +10,14 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 
 const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 	{
+		title: "Velocity",
+		desc: "Our in-house performance web stack.",
+		href: "https://aidxn.com/web-design/velocity",
+	},
+	{
 		title: "Astro",
 		desc: "Build fast websites, faster.",
 		href: "https://astro.build",
-	},
-	{
-		title: "Astro Assets",
-		desc: "Built-in optimized asset support.",
-		href: "https://docs.astro.build/en/guides/assets/",
 	},
 	{
 		title: "Tailwind CSS",
@@ -25,9 +25,9 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 		href: "https://tailwindcss.com",
 	},
 	{
-		title: "Markdown",
-		desc: "Simple and easy-to-use markup language.",
-		href: "https://www.markdownguide.org/",
+		title: "Stripe",
+		desc: "We use Stripe to handle payments securely for clients at the lowest fee.",
+		href: "https://www.stripe.com/",
 	},
 	{
 		title: "MDX",
@@ -35,30 +35,34 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 		href: "https://mdxjs.com/",
 	},
 	{
-		title: "Satori",
-		desc: "Generating png Open Graph images for blog posts.",
+		title: "Magento",
+		desc: "An e-commmerce solution for supporting custom website designs.",
 		href: "https://github.com/vercel/satori",
 	},
 	{
-		title: "Pagefind",
-		desc: "A fully static search library.",
-		href: "https://pagefind.app/",
+		title: "Wordpress",
+		desc: "An open-source CMS that at one point powered over 65% of the internet.",
+		href: "https://wordpress.com/",
 	},
 	{
-		title: "Astro Icon",
-		desc: "An easy to use Icon component for Astro.",
-		href: "https://github.com/natemoo-re/astro-icon#readme",
+		title: "Shopify",
+		desc: "The industry-leading technology for scaling B2B and B2C businesses.",
+		href: "https://shopify.com/",
 	},
 ];
 ---
 
 <PageLayout meta={{ title: "Home" }}>
 	<section>
-		<h1 class="title mb-6">Hello World!</h1>
+		<h1 class="title mb-6">Web Design Discussions by Aiden Wood</h1>
 		<p class="mb-4">
-			Hi, I’m a theme for Astro, an example of how you can use this starter to create a personal
-			blog. If you want to know more about how you can customise me, add more posts, and make it
-			your own, click on one the github icon link below which will take you to my repo.
+			Hey, I've been a web designer for over 10 years and currently am freelancing as Aidxn Design.
+			Over the years I have worked with a range of frameworks and stacks. I have specialised for the
+			last 6 years in high-performance website design which leads to improved SEO and reduced cost
+			per aquisition. That has always been a mouthful that is still hard for most people to
+			visualise, so I expand on those ideas here to give business owners a better understanding of
+			website design, SEO tricks and digital marketing. If you'd like to work together,
+			<a class="font-semibold hover:underline" href="https://aidxn.com/contact">let's chat</a>.
 		</p>
 		<SocialList />
 	</section>
@@ -87,8 +91,8 @@ const cactusTech: Array<{ title: string; desc: string; href: string }> = [
 							class="cactus-link inline-block"
 						>
 							{title}
-						</a>: 
-						<p class="inline-block sm:mt-2">{desc}</p>
+						</a>
+						:<p class="inline-block sm:mt-2">{desc}</p>
 					</li>
 				))
 			}
