@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Aidxn Web Design Blog",
+	"short_name": "Aidxn_Blog",
+	"description": "Web design and marketing discussions from Aiden Wood of Aidxn Design.",
 	"icons": [
 		{
 			"src": "/192x192.png",
