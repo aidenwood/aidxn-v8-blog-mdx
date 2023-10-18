@@ -6,7 +6,7 @@ tags: ["velocity", "digital marketing", "website design", "sales funnel design"]
 ---
 
 
-## 3. Performance Comparison Table
+## 1. Performance Comparison Table
 
 Let's take a deeper look at how Velocity compares to other frameworks. Check out our performance comparison deep dive page for more information. Read more about our <a name="Comparison">Web Perfomance comparisons of Velocity vs the rest</a>.
 

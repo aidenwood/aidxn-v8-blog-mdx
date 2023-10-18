@@ -5,20 +5,6 @@ publishDate: "20 Mar 2023"
 tags: ["velocity", "digital marketing", "website design", "sales funnel design"]
 ---
 
----
-draft: false
-title: "Advancements of WordPress Web Design and Web Performance Over the Last 10 Years"
-date: "2023-06-15"
-snippet: "Discover the remarkable advancements in WordPress web design and web performance over the past decade. Explore how WordPress has evolved to offer cutting-edge features, improved user experience, and enhanced website speed and performance. Stay up to date with the latest trends and harness the power of WordPress for your online presence."
-image: {
-    src: "https://images.unsplash.com/photo-1505740420928-5b66ee786d42?&fit=crop&w=430&h=240",
-    alt: "WordPress website design and performance"
-}
-publishDate: "2023-06-15 10:00"
-category: "Web Design"
-author: "Aiden Wood"
-tags: [wordpress, web design, web performance, advancements]
----
 
 ## 1. Introduction
 

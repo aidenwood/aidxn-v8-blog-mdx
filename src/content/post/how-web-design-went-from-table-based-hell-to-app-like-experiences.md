@@ -5,20 +5,6 @@ publishDate: "02 Jun 2023"
 tags: ["digital marketing", "advertising design", "marketing strategy development", "marketing management"]
 ---
 
----
-draft: false
-title: "The Evolution of Web Design: From Tables to Minimalism to App-Like Experiences"
-date: "2023-06-15"
-snippet: "Discover the incredible journey of web design over the past two decades. Explore the shifts from table-based design to overcomplexity, then to minimalism, and finally to the current trend of app-like website experiences. Witness the transformation of the web and the impact it has had on user engagement and interaction."
-image: {
-    src: "https://images.unsplash.com/photo-1511310268945-6f9a61d6bdd0?&fit=crop&w=430&h=240",
-    alt: "Evolution of web design"
-}
-publishDate: "2023-06-15 10:00"
-category: "Web Design"
-author: "Aiden Wood"
-tags: [web design, evolution, table-based design, minimalism, app-like experiences]
----
 
 ## 1. Introduction
 

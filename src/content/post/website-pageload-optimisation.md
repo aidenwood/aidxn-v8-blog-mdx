@@ -5,20 +5,6 @@ publishDate: "28 Sept 2023"
 tags: ["website design", "web performance", "e-commerce"]
 ---
 
----
-draft: false
-title: "Page Load Optimization: From 5.2 Seconds to 1.2 Seconds with WordPress"
-date: "2023-06-15"
-snippet: "Discover the power of page load optimization and learn how WordPress can significantly improve your website's performance. Follow these effective strategies to reduce your page load time from 5.2 seconds to an impressive 1.2 seconds, enhancing user experience, search engine rankings, and conversion rates."
-image: {
-    src: "https://images.unsplash.com/photo-1560807707-13699fcbe9e2?&fit=crop&w=430&h=240",
-    alt: "Page load optimization with WordPress"
-}
-publishDate: "2023-06-15 10:00"
-category: "Web Development"
-author: "Aiden Wood"
-tags: [page load optimization, website performance, WordPress, user experience, conversion rates]
----
 
 ## 1. Introduction
 
