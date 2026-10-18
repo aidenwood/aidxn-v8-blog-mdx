@@ -1,4 +1,8 @@
+# blog.aidxn.com is decommissioned — every path 301s to aidxn.com (see _redirects).
+# Crawling is still allowed so the redirects get followed and the equity
+# consolidates onto aidxn.com rather than stranding here.
+
 User-agent: *
 Allow: /
 
-Sitemap: https://astro-cactus.chriswilliams.dev/sitemap-index.xml
+Sitemap: https://blog.aidxn.com/sitemap-index.xml
